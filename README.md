@@ -7,9 +7,11 @@ Deep learning is a subfield of machine learning and artificial intelligence (AI)
 
 Key characteristics of deep learning include:
 
-1. **Artificial Neural Networks:** Deep learning models are built upon artificial neural networks, which are inspired by the structure and function of the human brain. These networks consist of interconnected layers of artificial neurons (nodes).   
+1. **Artificial Neural Networks:** Deep learning models are built upon artificial neural networks, which are inspired by the structure and function of the human brain. These networks consist of interconnected layers of artificial neurons (nodes).
 
-![image](https://github.com/raviteja-padala/Deep_Learning/blob/main/Resources/dl_gif.gif)
+<p align="center">
+  <img src="https://github.com/raviteja-padala/Deep_Learning/blob/main/Resources/dl_gif.gif">
+</p>
 
 2. **Deep Architectures:** Deep learning models are characterized by having multiple layers (hence "deep") between the input and output layers. These hidden layers enable the network to learn complex patterns and representations.
 
